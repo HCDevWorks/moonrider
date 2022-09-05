@@ -1,0 +1,19 @@
+{
+  "name": "degasv2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000E\u0000G\u0000A\u0000S\u0000 \u0000V\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HCDevWorks/DegasV2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HCDevWorks/DegasV2/issues"
+  },
+  "homepage": "https://github.com/HCDevWorks/DegasV2#readme"
+}
